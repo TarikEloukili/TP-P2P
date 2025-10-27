@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9df7d24c-99cd-4814-81be-fc31746a30fc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../../B/CodeSignal" beforeDir="false" afterPath="$PROJECT_DIR$/../../B/CodeSignal" afterDir="false" />
@@ -27,7 +30,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/tarik/OneDrive/Desktop/TPs/TP P2P final",
+    "last_opened_file_path": "C:/Users/tarik/OneDrive/Desktop/TPs/TP P2P final/TP1/docs/screenshots",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -51,7 +54,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1761599852718</updated>
-      <workItem from="1761599854645" duration="387000" />
+      <workItem from="1761599854645" duration="798000" />
     </task>
     <servers />
   </component>

@@ -88,11 +88,11 @@ Add your own screenshots and link them here. Suggested captures:
 
 
 1. **App home page** (`greetings.html`):  
-   ![Greetings page](docs/screenshots/Capture d'écran 2025-10-27 221500.png)
+   ![Greetings page](docs/screenshots/greetings.png)
 
 
 2. **Servlet response** (`/hello`):  
-   ![GreetingServlet response](docs/screenshots/Capture d'écran 2025-10-27 221508.png)
+   ![GreetingServlet response](docs/screenshots/hello.png)
 
 
 ---
