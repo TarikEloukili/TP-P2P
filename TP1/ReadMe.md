@@ -81,9 +81,8 @@ Open:
 
 ---
 
-## 6) Screenshots (place images in `docs/screenshots/`)
+## 6) Screenshots
 
-Add your own screenshots and link them here. Suggested captures:
 
 
 

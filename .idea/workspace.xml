@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9df7d24c-99cd-4814-81be-fc31746a30fc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../../B/CodeSignal" beforeDir="false" afterPath="$PROJECT_DIR$/../../B/CodeSignal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +40,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tarik\OneDrive\Desktop\TPs\TP P2P final\TP1\docs\screenshots" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -54,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1761599852718</updated>
-      <workItem from="1761599854645" duration="798000" />
+      <workItem from="1761599854645" duration="1609000" />
     </task>
     <servers />
   </component>
