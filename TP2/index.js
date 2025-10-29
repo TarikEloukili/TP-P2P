@@ -1,15 +1,15 @@
-const server = require("./server");
-const router = require("./router");
-const handlers = require("./requestHandlers");
+const server = require('./server');
+const router = require('./router');
+const h = require('./requestHandlers');
 
 const handle = {
-    "/": handlers.start,
-    "/start": handlers.start,
-    "/upload": handlers.upload,
-    "/find": handlers.find,
-    "/show": handlers.show,
-    "/login": handlers.login,
-    "/logout": handlers.logout,
+    '/':        h.start,
+    '/start':   h.start,
+    '/register':h.register,
+    '/login':   h.login,
+    '/logout':  h.logout,
+    '/upload':  h.upload,
+    '/show':    h.show,
+    '/find':    h.find,
 };
-
 server.start(router.route, handle);
